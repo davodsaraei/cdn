@@ -1,2 +1,2 @@
 # CDN
-Important things to share them on web ;)
+Important things to share them on the web ;)
